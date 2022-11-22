@@ -1,0 +1,17 @@
+D:\ELTE\7. félév\Eva\1. bead\Escape\obj\Debug\net6.0-windows\Escape.csproj.AssemblyReference.cache
+D:\ELTE\7. félév\Eva\1. bead\Escape\obj\Debug\net6.0-windows\Escape.View.EscapeWindow.resources
+D:\ELTE\7. félév\Eva\1. bead\Escape\obj\Debug\net6.0-windows\Escape.csproj.GenerateResource.cache
+D:\ELTE\7. félév\Eva\1. bead\Escape\obj\Debug\net6.0-windows\Escape.GeneratedMSBuildEditorConfig.editorconfig
+D:\ELTE\7. félév\Eva\1. bead\Escape\obj\Debug\net6.0-windows\Escape.AssemblyInfoInputs.cache
+D:\ELTE\7. félév\Eva\1. bead\Escape\obj\Debug\net6.0-windows\Escape.AssemblyInfo.cs
+D:\ELTE\7. félév\Eva\1. bead\Escape\obj\Debug\net6.0-windows\Escape.csproj.CoreCompileInputs.cache
+D:\ELTE\7. félév\Eva\1. bead\Escape\bin\Debug\net6.0-windows\Escape.exe
+D:\ELTE\7. félév\Eva\1. bead\Escape\bin\Debug\net6.0-windows\Escape.deps.json
+D:\ELTE\7. félév\Eva\1. bead\Escape\bin\Debug\net6.0-windows\Escape.runtimeconfig.json
+D:\ELTE\7. félév\Eva\1. bead\Escape\bin\Debug\net6.0-windows\Escape.dll
+D:\ELTE\7. félév\Eva\1. bead\Escape\bin\Debug\net6.0-windows\Escape.pdb
+D:\ELTE\7. félév\Eva\1. bead\Escape\obj\Debug\net6.0-windows\Escape.dll
+D:\ELTE\7. félév\Eva\1. bead\Escape\obj\Debug\net6.0-windows\refint\Escape.dll
+D:\ELTE\7. félév\Eva\1. bead\Escape\obj\Debug\net6.0-windows\Escape.pdb
+D:\ELTE\7. félév\Eva\1. bead\Escape\obj\Debug\net6.0-windows\Escape.genruntimeconfig.cache
+D:\ELTE\7. félév\Eva\1. bead\Escape\obj\Debug\net6.0-windows\ref\Escape.dll
